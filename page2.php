@@ -10,6 +10,6 @@
 <?php
 echo 'nous sommes le ' . date('d-m-Y');
 ?>
-c'est la page 2.
+c'est la page 2.blalabla
 </body>
 </html>
