@@ -8,8 +8,9 @@
 <body> 
 
 <?php
-
+echo 'nous sommes le ' . date('d-m-Y');
 ?>
+BLABLABLA
 
 </body>
 </html>
